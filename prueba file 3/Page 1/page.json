@@ -43,6 +43,10 @@
     {
       "class": "oval",
       "id": "38B60D7A-AF42-42FA-9AA2-EC58A42CA235"
+    },
+    {
+      "class": "oval",
+      "id": "3D0D9794-C412-49A9-B6D0-DD8C064F209D"
     }
   ],
   "name": "Page 1",
